@@ -17,6 +17,16 @@ Practice webpage about an Anaconda- A massive, powerful snake found in South Ame
 <img width="1470" alt="Screenshot 2025-04-22 at 8 31 54 PM" src="https://github.com/user-attachments/assets/7e56f395-fd58-40f6-a326-1d7cbbe8bcdb" />
 <img width="1470" alt="Screenshot 2025-04-22 at 8 32 01 PM" src="https://github.com/user-attachments/assets/2efe9b89-cafb-474c-b590-eff09ec2a058" />
 
+DIV PRACTICE SCREENSHOT
+<img width="1470" alt="Screenshot 2025-04-23 at 1 06 24 PM" src="https://github.com/user-attachments/assets/67c4f541-bc25-47e2-940b-b9a0dac6eee2" />
+<img width="1470" alt="Screenshot 2025-04-23 at 1 06 32 PM" src="https://github.com/user-attachments/assets/ede47f0a-efbf-4987-8058-a7c8d04fd700" />
+<img width="1470" alt="Screenshot 2025-04-23 at 1 06 41 PM" src="https://github.com/user-attachments/assets/e6f97c15-ca1c-4c90-9356-8f3d1989faab" />
+<img width="1470" alt="Screenshot 2025-04-23 at 1 06 48 PM" src="https://github.com/user-attachments/assets/0b2f7b07-55fe-4137-8db7-6aab8dc084ab" />
+
+
+
+
+
 
 
 
